@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>beautifulsoup</string>
 	<key>CFBundleName</key>
-	<string>BeautifulSoup</string>
+	<string>BeautifulSoup_zh</string>
 	<key>DocSetPlatformFamily</key>
 	<string>python</string>
 	<key>dashIndexFilePath</key>
