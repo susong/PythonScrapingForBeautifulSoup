@@ -102,7 +102,7 @@ def create_db(doc_name, index_html_name):
     conn.close()
 
 
-copy_file("beautifulsoup", "beautifulsoup_zh.docset")
-create_xml("beautifulsoup_zh.docset", "beautifulsoup", "BeautifulSoup_zh", "python",
+copy_file("beautifulsoup", "BeautifulSoup_zh.docset")
+create_xml("BeautifulSoup_zh.docset", "beautifulsoup", "BeautifulSoup_zh", "python",
            "index.html")
-create_db("beautifulsoup_zh.docset", "index.html")
+create_db("BeautifulSoup_zh.docset", "index.html")
